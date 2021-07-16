@@ -9,13 +9,13 @@
 
 ## General Info
 
-Website for HTML Cheatsheet.
+Webpage for HTML Cheatsheet.
 
 ## Screenshots
 
-<img src="screenshots/1.png" />
-<img src="screenshots/2.png" />
-<img src="screenshots/3.png" />
+![first](screenshots/1.PNG)
+![second](screenshots/2.PNG)
+![third](screenshots/3.PNG)
 
 ## Technologies
 

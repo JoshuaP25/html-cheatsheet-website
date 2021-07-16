@@ -19,7 +19,10 @@ header h1 {
 }
 
 .html-desc {
-    margin: 15px 30px;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: justify;
 }
 
 .html-desc h2 {
