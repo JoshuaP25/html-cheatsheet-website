@@ -13,9 +13,7 @@ Webpage for HTML Cheatsheet.
 
 ## Screenshots
 
-![first](screenshots/1.PNG)
-![second](screenshots/2.PNG)
-![third](screenshots/3.PNG)
+![capture](screenshots/capture.png)
 
 ## Technologies
 
